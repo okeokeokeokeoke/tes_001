@@ -1,0 +1,1 @@
+print("baru saja dibuat")
